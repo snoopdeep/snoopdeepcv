@@ -65,3 +65,10 @@ h3{
   height: 100px;
     background-color: #417D7A;
   }
+
+    hr{
+    border-style: dotted none none;
+    width: 10%;
+    border-color: gray;
+    border-width: 5px;
+  }
