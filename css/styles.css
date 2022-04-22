@@ -25,9 +25,10 @@ h3{
 
 }
 .uppercloud{
+  height: 200px;
   position: absolute;
   top: 50px;
-  right: 300px;
+  right: 190px;
 
 
 
@@ -35,14 +36,15 @@ h3{
 
 
 .lowercloud{
+ height: 200px;
   position: absolute;
   top: 270px;
-  left:  300px;
+  left:  220px;
 
 }
 .img-giphy{
-  height: 300px;
-  width: 180px;
+  height: 350px;
+  width: 220px;
 }
 .img-skills{
   width: 300px;
@@ -53,8 +55,8 @@ h3{
   height: 240px;
 }
 .mountain{
-  width: 650px;
-  height: 400px;
+  width: 800px;
+  height: 480px;
 
 }
 .bottom-container{
